@@ -26,5 +26,9 @@ public class ControlFlowExercises {
 //        for(int i = 5; i < 15; i += 1) {
 //            System.out.println("i is "+ i);
 //        }
+
+//        for(int i=2; i<100; i+=2) {
+//            System.out.println("i is " + i);
+//        }
     }
 }
