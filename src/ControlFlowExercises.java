@@ -17,10 +17,14 @@ public class ControlFlowExercises {
 //            i -= 5;
 //        } while (i >= -10);
 
-//        int num=2;
+//        int i=2;
 //        do {
-//            System.out.println(num);
-//            num *= num;
-//        }while (num <1000000);
+//            System.out.println(i);
+//            i *= i;
+//        }while (i <1000000);
+
+//        for(int i = 5; i < 15; i += 1) {
+//            System.out.println("i is "+ i);
+//        }
     }
 }
