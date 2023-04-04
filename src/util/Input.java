@@ -29,10 +29,10 @@ public class Input {
         } while(userInt > max || userInt < min);
         return userInt;
     }
-    double getDouble(){
+    public double getDouble(){
         return this.scanner.nextDouble();
     }
-    double getDouble(double min, double max){
+   double getDouble(double min, double max){
         Double userDouble;
         do {
             System.out.printf("Please enter a decimal number between %f: %n", min, max);
